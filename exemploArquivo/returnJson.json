@@ -1,0 +1,14 @@
+{
+    "numero": 5,
+    "escrita": "ABC",
+	  "numeroOuEscrita": 1,
+	  "numeroOuEscrita2": "1",
+	  "arraySimples":["5",4],
+    "arrayComItens":[
+      {"palavra": "ABC"},
+      {"numero": 5}
+    ],
+    "ObjectSimples": {
+        "escrita": "ABC"
+    }
+}
